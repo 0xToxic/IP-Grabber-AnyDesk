@@ -1,18 +1,5 @@
 # AnyDesk-IP-Grabber
-An Simple c# written AnyDesk grabber, to ddos b!tches
-
-## [**Download Here**](https://github.com/fknMega/AnyDesk-IP-Grabber/releases/tag/Releases)
-[![Github All Releases](https://img.shields.io/github/downloads/fknMega/AnyDesk-IP-Grabber/total.svg)]()
-
-
-### Features:
-- Can ddos b!tches
-- Can get minecraft admins ip
-- Can be cool
-
-
-
-
+ip grabber written using C# 
 
 
 ## Preview:
